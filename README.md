@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fortune Okolo</h1>
 <h3 align="center">👨‍💻 Backend Developer Extraordinaire! 👨‍💼 🚀 Crafting high-performance APIs with FastAPI 🐍 Python aficionado, mastering the art of clean and scalable code 💡 Leveraging experience to architect robust backend solutions 🔧 Constantly optimizing for efficiency and reliability 💬 Let's code, collaborate, and elevate together!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mina269&label=Profile%20views&color=0e75b6&style=flat" alt="mina269" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mina269" alt="mina269" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/pipersaiso" target="blank"><img src="https://img.shields.io/twitter/follow/pipersaiso?logo=twitter&style=for-the-badge" alt="pipersaiso" /></a> </p>
-
-- 🌱 I’m currently learning **Fast API, Python, Mongo DB,**
+- 🌱 I’m currently learning **Fast API, Python**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **Python, HTML, CSS, Excel**
+- 💬 Ask me about **Python, HTML, Excel**
 
 - 📫 How to reach me **okolofortune4@gmail.com**
 
