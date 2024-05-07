@@ -14,7 +14,7 @@
 <a href="https://twitter.com/pipersaiso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pipersaiso" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fortuneokolo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fortuneokolo" height="30" width="40" /></a>
 <a href="https://instagram.com/fortrane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fortrane" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@saint_piper?si=ikubyxobsmpej5kd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@saint_piper?si=ikubyxobsmpej5kd" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://youtube.com/channel/UCInOHUYa-hcL-xA2CzBOpAw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@saint_piper?si=ikubyxobsmpej5kd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
