@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fortune Okolo</h1>
 <h3 align="center">👨‍💻 Backend Developer Extraordinaire! 👨‍💼 🚀 Crafting high-performance APIs with FastAPI 🐍 Python aficionado, mastering the art of clean and scalable code 💡 Leveraging experience to architect robust backend solutions 🔧 Constantly optimizing for efficiency and reliability 💬 Let's code, collaborate, and elevate together!</h3>
 
-- 🌱 I’m currently learning **Fast API, Python**
+- 🌱 I’m currently learning **Fast API, Python, MongoDB, ExpressJS**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **Python, HTML, Excel**
+- 💬 Ask me about **Python, HTML, Excel, MongoDB, FastAPI, ExpressJS, NodeJS, JavaScript**
 
 - 📫 How to reach me **okolofortune4@gmail.com**
 
